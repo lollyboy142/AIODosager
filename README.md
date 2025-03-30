@@ -1,1 +1,1 @@
-This contains the all on one dosager tool. That contains ping, icmp and syn packets.
+This contains the all in one dosager tools. That contains ping, icmp and syn packets.
